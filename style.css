@@ -9,9 +9,8 @@ body{
 
 .loginBox{
     color: white;
-    width: 300px;
+    width: 350px;
     position: absolute;
-    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -38,14 +37,15 @@ body{
     background: none;
     color: white;
     font-size: 20px;
+    width: 150px;
 }
 
 .btn{
-    border: 1px solid #b90024;
+    border: 2px solid #b90024;
     background: none;
     color: white;
     font-size: 25px;
     font-weight: 100;
-    width: 300px;
+    width: 350px;
     margin-top: 15px;
 }
