@@ -1,0 +1,51 @@
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url(IMG/bgLogin.jpg) no-repeat;
+    background-size: cover;
+}
+
+
+.loginBox{
+    color: white;
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.loginBox h1{
+    border-bottom: #b90024 solid 5px;
+    font-size: 60px;
+    float: left;
+    margin-bottom: 30px;
+    padding: 13px 0;
+}
+
+.loginLP{
+    width: 100%;
+    overflow: hidden;
+    padding: 8px 0;
+    margin: 8px 0 ;
+    border-bottom: 3px solid #b90024;
+}
+
+.loginLP input{
+    border: none;
+    outline: none;
+    background: none;
+    color: white;
+    font-size: 20px;
+}
+
+.btn{
+    border: 1px solid #b90024;
+    background: none;
+    color: white;
+    font-size: 25px;
+    font-weight: 100;
+    width: 300px;
+    margin-top: 15px;
+}
