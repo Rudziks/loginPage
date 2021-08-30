@@ -11,6 +11,7 @@ body{
     color: white;
     width: 350px;
     position: absolute;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -48,4 +49,12 @@ body{
     font-weight: 100;
     width: 350px;
     margin-top: 15px;
+}
+
+.btn:hover{
+    border: 2px solid #ffffff;
+}
+
+.loginLP:hover{
+    border-bottom: 3px solid white ;
 }
